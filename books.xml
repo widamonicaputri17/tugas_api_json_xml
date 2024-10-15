@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<books>
+  <book id="1">
+    <title>Kitab Sahih Bukhari</title>
+    <author>Imam Bukhari</author>
+  </book>
+  <book id="2">
+    <title>Kitab Maulid Simtudduror</title>
+    <author>Habib Ali bin Muhammad bin Husein Al-Haddad</author>
+  </book>
+  <book id="3">
+    <title>Ar-Risalah al-Ghausiyah</title>
+    <author>Abdul Qadir al-Jailani</author>
+  </book>
+  <book id="4">
+    <title>Tafsir al-Mizan</title>
+    <author>Allamah Tabatabai</author>
+  </book>
+  <book id="5">
+    <title>Ar-Risalah </title>
+    <author>Imam Syafi'i</author>
+  </book>
+  <book id="6">
+    <title>Sirah Ibnu Hisyam</title>
+    <author>Ibnu Hisyam</author>
+  </book>
+</books>
